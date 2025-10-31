@@ -14,7 +14,7 @@ This is the repository for my end-to-end Machine Learning project. This project 
 The primary output is a live web application built with Streamlit.
 
 **(Note: Add your best screenshot, like `image_749ba0.jpg`, to your repository and this image will load)**
-![Screenshot of the Streamlit App]([image_749ba0.jpg](https://github.com/user-attachments/assets/ccb60471-dabb-44cf-a00f-f5be5d34b969))
+![Screenshot of the Streamlit App](https://github.com/user-attachments/assets/7ddacb2c-6576-4be4-880f-ca894fe35b2f)
 
 ---
 
